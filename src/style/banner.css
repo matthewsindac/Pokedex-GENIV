@@ -1,0 +1,10 @@
+.banner {
+    background-color: #f7b42c;
+    color: black;
+    text-align: center;
+    padding: 10px;
+  }
+  .banner-content {
+    margin: 0 auto;
+    max-width: 800px;
+  }  
